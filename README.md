@@ -4,12 +4,7 @@
 **danilosousa/danilosousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
- <div>
-  <a href="https://github.com/danilosousa">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danilosousa&show_icons=true&theme=chartreuse-dark"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilosousa&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-  </a>
-</div>
+
 <!--
 <div style="display: inline_block">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
